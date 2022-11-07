@@ -5,7 +5,7 @@ body
  
        font-size: 20px;
         width: 100%;
-        background: LightGray;
+        background: rgba(43, 43, 185, 0.753);
         display: grid;
         grid-template-areas:
         "header"
